@@ -1,0 +1,18 @@
+#: locale=en
+
+## Hotspot
+
+### URL
+overlay_33072A90_2239_B496_4191_E697EDA19B5C.url = https://visualizadorpdf.000webhostapp.com/
+
+## Media
+
+### Title
+panorama_32BD245C_2227_538E_41B8_BF60E464E223.label = terraza1
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
